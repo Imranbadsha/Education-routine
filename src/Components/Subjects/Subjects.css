@@ -1,0 +1,9 @@
+.card{
+    position: relative;
+}
+.btn {
+    width: 50%;
+    position: absolute;
+    bottom: 0;
+
+}
